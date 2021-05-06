@@ -334,7 +334,7 @@
   left:0px;
   top:0px;
   width:496px;
-  height:75px;
+  height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -351,7 +351,7 @@
   left:74px;
   top:198px;
   width:496px;
-  height:75px;
+  height:50px;
   display:flex;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
   font-style:normal;
@@ -1282,7 +1282,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:84px;
+  width:110px;
   height:25px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1300,7 +1300,7 @@
   position:absolute;
   left:363px;
   top:962px;
-  width:84px;
+  width:110px;
   height:25px;
   display:flex;
   font-family:'PingFangSC-Ultralight', 'PingFang SC Ultralight', 'PingFang SC', sans-serif;
@@ -1324,6 +1324,48 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:55px;
+  height:25px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Ultralight', 'PingFang SC Ultralight', 'PingFang SC', sans-serif;
+  font-weight:100;
+  font-style:normal;
+}
+#u202 {
+  border-width:0px;
+  position:absolute;
+  left:787px;
+  top:962px;
+  width:55px;
+  height:25px;
+  display:flex;
+  font-family:'PingFangSC-Ultralight', 'PingFang SC Ultralight', 'PingFang SC', sans-serif;
+  font-weight:100;
+  font-style:normal;
+}
+#u202 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u202_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u203_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:177px;
   height:66px;
   background:inherit;
@@ -1337,7 +1379,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u202 {
+#u203 {
   border-width:0px;
   position:absolute;
   left:510px;
@@ -1349,19 +1391,19 @@
   font-weight:400;
   font-style:normal;
 }
-#u202 .text {
+#u203 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u202_text {
+#u203_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u203_div {
+#u204_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1380,7 +1422,7 @@
   font-size:32px;
   color:#D9001B;
 }
-#u203 {
+#u204 {
   border-width:0px;
   position:absolute;
   left:363px;
@@ -1393,19 +1435,19 @@
   font-size:32px;
   color:#D9001B;
 }
-#u203 .text {
+#u204 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u203_text {
+#u204_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u204 {
+#u205 {
   border-width:0px;
   position:absolute;
   left:684px;
@@ -1413,7 +1455,7 @@
   width:0px;
   height:0px;
 }
-#u204_seg0 {
+#u205_seg0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1421,7 +1463,7 @@
   width:71px;
   height:10px;
 }
-#u204_text {
+#u205_text {
   border-width:0px;
   position:absolute;
   left:-17px;
@@ -1431,7 +1473,7 @@
   text-transform:none;
   visibility:hidden;
 }
-#u205_img {
+#u206_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1439,7 +1481,7 @@
   width:48px;
   height:48px;
 }
-#u205 {
+#u206 {
   border-width:0px;
   position:absolute;
   left:608px;
@@ -1452,15 +1494,41 @@
   -ms-transform:rotate(180deg);
   transform:rotate(180deg);
 }
-#u205 .text {
+#u206 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u205_text {
+#u206_text {
   border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u207 {
+  border-width:0px;
+  position:absolute;
+  left:473px;
+  top:975px;
+  width:0px;
+  height:0px;
+}
+#u207_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:319px;
+  height:10px;
+}
+#u207_text {
+  border-width:0px;
+  position:absolute;
+  left:107px;
+  top:-8px;
+  width:100px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
